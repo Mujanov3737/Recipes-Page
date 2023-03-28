@@ -14,4 +14,4 @@ Additionally, topics regarding the linking process were also explored, with part
 Absolute links can be used to link to other external pages that are not a part of the website and require explicit syntax such a protocol used, domain name, and resource path in order to link properly.
 <br>
 <br>
-<p> > <span style="color:blue">https://</span><span style="color:orange">www.microsoft.com</span><span style="color:green">en-us/microsoft-365</span></p>
+<p> > <span style="color:blue">https://</span><span style="color:orange">www.microsoft.com</span><span style="color:green">/en-us/microsoft-365</span></p>
