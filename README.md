@@ -10,7 +10,6 @@ The purpose of this project was to cover the foundational concepts of HTML and i
 </ul>
 Additionally, topics regarding the linking process were also explored, with particular distinction between absolute and relative links. Relative links were used in the project to point to the proper image files in the file system in order to display in the page and are in general used to navigate to other pages within a website. This example shows navigation to the parent directory followed by the proper folders to find the desired image. <br>
 <br>
-<br>
 <p> > &ltimg src="../images/dog.jpg"> </p>
 Absolute links can be used to link to other pages that are not a part of the website and require explicit syntax such a protocol used, domain name, and resource path in order to function properly.
 <br>
