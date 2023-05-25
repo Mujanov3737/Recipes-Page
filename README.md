@@ -6,7 +6,8 @@ The purpose of this project was to cover the foundational concepts of HTML and i
   <li>&lt;Body> and &lt;Head> which provide the content of the page and additional meta information about the document respectively</li>
   <li>&lt;p> which is used to create paragraphs within a series of characters</li>
   <li>&lt;em> and &lt;strong> which are used to stylize the text with italic and bold emphasis</li>
-<li>Finally, &lt;ul>, &lt;ol> and &lt;li> can be used to present lists, both ordered and unordered</li>
+  <li>&lt;ul>, &lt;ol> and &lt;li> can be used to present lists, both ordered and unordered</li>
+  <li>&lt;a>, or an anchor, used for creating a hyperlink to other resources, such as webpages, emails, or files</li>
 </ul>
 Additionally, topics regarding the linking process were also explored, with particular distinction between absolute and relative links. Relative links were used in the project to point to the proper image files in the file system in order to display in the page and are in general used to navigate to other pages within a website. This example shows navigation to the parent directory followed by the proper folders to find the desired image. <br>
 <br>
